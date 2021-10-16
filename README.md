@@ -24,5 +24,5 @@ the client: </br>
 ![client](client.png)
 
 
-the server:
+the server: </br>
 ![server](server.png)
