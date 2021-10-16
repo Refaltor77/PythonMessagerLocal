@@ -6,11 +6,13 @@ Simple messager in python used socket
 ```CMD
 pip install simple-chalk
 git clone https://github.com/Refaltor77/PythonMessagerLocal
-
-# to start server
+```
+to start server
+```CMD
 python server.py
-
-# to connect to server
+```
+to connect to server
+```CMD
 python client.py
 ```
 
@@ -18,3 +20,9 @@ python client.py
 You can chat from server.py and reply to client messages :)
 
 # images
+the client: </br>
+![client](client.png)
+
+
+the server:
+![server](server.png)
